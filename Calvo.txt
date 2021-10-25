@@ -1,2 +1,6 @@
 Calvo Arévalo 1
+<<<<<<< HEAD
 user2
+=======
+user1
+>>>>>>> origin/master
